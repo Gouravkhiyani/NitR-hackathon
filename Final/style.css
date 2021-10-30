@@ -71,7 +71,7 @@
  
  
 .great{
-    background-color: rgb(75, 168, 223);
+    background-color:rgba(24,24,27, 0.6); 
 }
 .articles{
     margin: 2em;
@@ -363,7 +363,7 @@
     width: 100%;
     height: auto;
     padding: 70px 0 20px 0;
-    background: #00abff;
+    background: rgba(24,24,27, 0.6);
     position: relative;
 }
 
